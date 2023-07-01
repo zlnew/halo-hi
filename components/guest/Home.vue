@@ -15,8 +15,8 @@
 
     <div class="flex justify-center items-center">
       <div class="absolute bg-accent w-[8rem] h-[8rem] lg:w-[16rem] lg:h-[16rem] 2xl:w-[24rem] 2xl:h-[24rem] rounded-full opacity-10 -z-10"></div>
-      <div class="absolute bg-accent w-[16rem] h-[16rem] lg:w-[24rem] lg:h-[24rem] 2xl:w-[32rem] 2xl:h-[32rem] rounded-full opacity-10 -z-10"></div>
-      <div class="absolute bg-accent w-[24rem] h-[24rem] lg:w-[32rem] lg:h-[32rem] 2xl:w-[40rem] 2xl:h-[40rem] rounded-full opacity-10 -z-10"></div>
+      <div class="absolute bg-accent w-[14rem] h-[14rem] lg:w-[24rem] lg:h-[24rem] 2xl:w-[32rem] 2xl:h-[32rem] rounded-full opacity-10 -z-10"></div>
+      <div class="absolute bg-accent w-[20rem] h-[20rem] md:w-[24rem] md:h-[24rem] lg:w-[32rem] lg:h-[32rem] 2xl:w-[40rem] 2xl:h-[40rem] rounded-full opacity-10 -z-10"></div>
       <div class="absolute bg-accent md:w-[32rem] md:h-[32rem] lg:w-[40rem] lg:h-[40rem] 2xl:w-[48rem] 2xl:h-[48rem] rounded-full opacity-10 -z-10"></div>
       <div class="absolute bg-accent 2xl:w-[56rem] 2xl:h-[56rem] rounded-full opacity-10 -z-10"></div>
       <div class="absolute bg-accent 2xl:w-[64rem] 2xl:h-[64rem] rounded-full opacity-10 -z-10"></div>
