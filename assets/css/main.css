@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-primary {
+    @apply transition px-3 py-2 rounded-md font-bold bg-accent text-white;
+    @apply hover:brightness-125;
+  }
+  .btn-secondary {
+    @apply transition px-3 py-2 rounded-md font-bold bg-primary text-accent;
+    @apply hover:brightness-125;
+  }
+  .btn-link {
+    @apply transition font-medium bg-transparent text-white;
+    @apply hover:text-accent hover:brightness-125;
+  }
+}
