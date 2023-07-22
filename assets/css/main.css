@@ -4,7 +4,7 @@
 
 @layer components {
   .btn-primary {
-    @apply transition px-3 py-2 rounded-md font-bold bg-accent text-white;
+    @apply transition px-3 py-2 rounded-md font-bold bg-accent text-primary;
     @apply hover:brightness-125;
   }
   .btn-secondary {
@@ -14,5 +14,9 @@
   .btn-link {
     @apply transition font-medium bg-transparent text-white;
     @apply hover:text-accent hover:brightness-125;
+  }
+  .form-control {
+    @apply py-3 px-3 w-full text-base text-accent bg-white/10 border border-accent/20 rounded-md;
+    @apply focus:outline-1 focus:outline-offset-0 focus:outline-accent;
   }
 }
